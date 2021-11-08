@@ -12,7 +12,7 @@ var option_PDFF = {
 
     downloadEnable: true, 
 
-    direction: pdfflip.DIRECTION.LTR,
+    direction: pdfflip.DIRECTION.RTL,
 
     autoPlay: true,
 

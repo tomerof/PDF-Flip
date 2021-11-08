@@ -42,7 +42,7 @@ $pluginPath = plugin_dir_url(__FILE__);
 <script src="<?= $pluginPath ?>assets/js/core.js"></script>
 <script src="<?= $pluginPath ?>pflip/js/pdfflip.js"></script>
 <script src="<?= $pluginPath ?>pflip/js/open.js"></script>
-<script src="<?= $pluginPath ?>settings.js"></script>
-<script src="<?= $pluginPath ?>toc.js"></script>
+<!--<script src="<?/*= $pluginPath */?>settings.js"></script>-->
+<!--<script src="<?/*= $pluginPath */?>toc.js"></script>-->
 </body>
 </html>
